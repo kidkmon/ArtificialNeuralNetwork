@@ -14,6 +14,7 @@
 * [Practical Project 2](https://github.com/kidkmon/ArtificialNeuralNetworks/tree/master/PracticalProject-02)
 * [Practical Project 3](https://github.com/kidkmon/ArtificialNeuralNetworks/tree/master/PracticalProject-03)
 * [Practical Project 4](https://github.com/kidkmon/ArtificialNeuralNetworks/tree/master/PracticalProject-04)
+* [Practical Project 5](https://github.com/kidkmon/ArtificialNeuralNetwork/tree/master/PracticalProject-05)
 
 ## Libraries
 The libraries used in the practical projects were:
